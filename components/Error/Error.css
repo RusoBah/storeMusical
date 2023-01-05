@@ -1,0 +1,15 @@
+.error-container{
+  
+   margin: 0 auto;
+   
+}
+.error__title{
+   font-size: 28px;
+   color: brown;
+   text-align: center;
+}
+.error__subtitle{
+   font-size: 20px;
+   color: brown;
+   text-align: center;
+}

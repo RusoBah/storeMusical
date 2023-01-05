@@ -1,0 +1,27 @@
+:root{
+   --color-unaccent: #808080;
+}
+/* Настрокйка скролл-бара */
+::-webkit-scrollbar{
+   width: 5px;
+}
+::-webkit-scrollbar-thumb{
+   background-color: rgba(20, 19, 110, 0.773);
+   border-radius: 2px;
+}
+
+*{
+   box-sizing: border-box;
+}
+body{
+   margin: 0;
+   padding: 0;
+   font-family: 'Work Sans', sans-serif;
+}
+p{
+   font-weight: 300;
+}
+h1, h2, h3, h4, h5{
+   font-weight: 500;
+   
+}
